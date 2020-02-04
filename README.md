@@ -10,15 +10,16 @@
 - Python 2.0 [Repository](https://github.com/BrockDSL/Python_2.0_Workshop) [Site](https://brockdsl.github.io/Python_2.0_Workshop/)
 - SciHub Workshop [Repository](https://github.com/BrockDSL/SciHub_Workshop) [Site](https://brockdsl.github.io/SciHub_Workshop/)
 - Story Maps Workshop [Repository](https://github.com/BrockDSL/StoryMaps) [Site](https://brockdsl.github.io/StoryMaps/)
-- [Repository]()[Site]()
-- [Repository]()[Site]()
-- [Repository]()[Site]()
-- [Repository]()[Site]()
-- [Repository]()[Site]()
-- [Repository]()[Site]()
-- [Repository]()[Site]()
-- [Repository]()[Site]()
+- Census Mapping Workshop [Repository](https://github.com/BrockDSL/Census_Mapping) [Site](https://brockdsl.github.io/Census_Mapping/)
+- Intro to R Workshop [Repository](https://github.com/BrockDSL/Intro_to_R_Workshop) [Site](https://brockdsl.github.io/Intro_to_R_Workshop/)
+- R for Text Analysis[Repository](https://github.com/BrockDSL/R_for_Text_Analysis) [Site](https://brockdsl.github.io/R_for_Text_Analysis/)
+- [Repository](https://github.com/BrockDSL/Intro_to_the_Command_Line_Workshop) [Site](https://brockdsl.github.io/Intro_to_the_Command_Line_Workshop/)
+- [Repository]() [Site]()
+- [Repository]() [Site]()
+- [Repository]() [Site]()
 
 ## Tutorials
+- Open Refine Tutorial [Repository](https://github.com/BrockDSL/Open-Refine-Tutorial) [Site](https://brockdsl.github.io/Open-Refine-Tutorial/)
+
 
 ## Projects
