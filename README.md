@@ -12,11 +12,8 @@
 - Story Maps Workshop [Repository](https://github.com/BrockDSL/StoryMaps) [Site](https://brockdsl.github.io/StoryMaps/)
 - Census Mapping Workshop [Repository](https://github.com/BrockDSL/Census_Mapping) [Site](https://brockdsl.github.io/Census_Mapping/)
 - Intro to R Workshop [Repository](https://github.com/BrockDSL/Intro_to_R_Workshop) [Site](https://brockdsl.github.io/Intro_to_R_Workshop/)
-- R for Text Analysis[Repository](https://github.com/BrockDSL/R_for_Text_Analysis) [Site](https://brockdsl.github.io/R_for_Text_Analysis/)
-- [Repository](https://github.com/BrockDSL/Intro_to_the_Command_Line_Workshop) [Site](https://brockdsl.github.io/Intro_to_the_Command_Line_Workshop/)
-- [Repository]() [Site]()
-- [Repository]() [Site]()
-- [Repository]() [Site]()
+- R for Text Analysis  [Repository](https://github.com/BrockDSL/R_for_Text_Analysis) [Site](https://brockdsl.github.io/R_for_Text_Analysis/)
+- Intro to the Command Line [Repository](https://github.com/BrockDSL/Intro_to_the_Command_Line_Workshop) [Site](https://brockdsl.github.io/Intro_to_the_Command_Line_Workshop/)
 
 ## Tutorials
 - Open Refine Tutorial [Repository](https://github.com/BrockDSL/Open-Refine-Tutorial) [Site](https://brockdsl.github.io/Open-Refine-Tutorial/)
