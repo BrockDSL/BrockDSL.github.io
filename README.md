@@ -20,3 +20,14 @@
 
 
 ## Projects
+- Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
+- Digital Scholarship Initiative 2020 [Repository](https://github.com/BrockDSL/DSI2020) [Site](https://brockdsl.github.io/DSI2020/)
+- The Diary of Winnie Beam [Repository](https://github.com/BrockDSL/winnie_beam_1900_dairy)
+- Research Tools on Demand [Repository](https://github.com/BrockDSL/Research-Tools-On-Demand) [Site](https://brockdsl.github.io/Research-Tools-On-Demand/)
+- TWARC Case Study [Repository](https://github.com/BrockDSL/TWARC_Case_Study) [Site](https://brockdsl.github.io/TWARC_Case_Study/)
+- Royal Tree Problem via ECJ & CCH [Repository](https://github.com/BrockDSL/royaltree_ecj_cluster)
+- Econ Data Cruncher [Repository](https://github.com/BrockDSL/econ-data-cruncher)
+- [Repository]() [Site]()
+
+## Carpentries Workshops
+- Library Carpentry Workshop Spring 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
