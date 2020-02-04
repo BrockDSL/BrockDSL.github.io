@@ -14,7 +14,7 @@
 - Intro to R Workshop [Repository](https://github.com/BrockDSL/Intro_to_R_Workshop) [Site](https://brockdsl.github.io/Intro_to_R_Workshop/)
 - R for Text Analysis  [Repository](https://github.com/BrockDSL/R_for_Text_Analysis) [Site](https://brockdsl.github.io/R_for_Text_Analysis/)
 - Intro to the Command Line [Repository](https://github.com/BrockDSL/Intro_to_the_Command_Line_Workshop) [Site](https://brockdsl.github.io/Intro_to_the_Command_Line_Workshop/)
-- [Repository]() [Site]()
+- Intro to Tableau [Repository](https://github.com/BrockDSL/Intro_to_Tableau_Workshop) [Site](https://brockdsl.github.io/Intro_to_Tableau_Workshop/)
 - [Repository]() [Site]()
 - [Repository]() [Site]()
 - [Repository]() [Site]()
