@@ -20,8 +20,6 @@
 - Digital Storytelling Workshop [Repository](https://github.com/BrockDSL/Digital_Storytelling_Workshop) [Site](https://brockdsl.github.io/Digital_Storytelling_Workshop/)
 - Placeholder for Intro to Voyant Workshop [Repository](https://github.com/BrockDSL/Intro_to_Voyant_Workshop) [Site](https://brockdsl.github.io/Intro_to_Voyant_Workshop/)
 - ArcGIS Pro Flu Workshop [Repository](https://github.com/BrockDSL/ArcGIS-Pro-flu) [Site](https://brockdsl.github.io/ArcGIS-Pro-flu/)
-- [Repository]() [Site]()
-- [Repository]() [Site]()
 
 ## Tutorials
 - Open Refine Tutorial [Repository](https://github.com/BrockDSL/Open-Refine-Tutorial) [Site](https://brockdsl.github.io/Open-Refine-Tutorial/)
@@ -30,9 +28,10 @@
 - Omeka S Tutorial [Repository](https://github.com/BrockDSL/Omeka-S-Tutorial) [Site](https://brockdsl.github.io/Omeka-S-Tutorial/)
 - Library Data for Visualizations [Repository](https://github.com/BrockDSL/LibraryDataViz) [Site](https://brockdsl.github.io/LibraryDataViz/)
 - Twitter Sentiment Analysis steps [Repository](https://github.com/BrockDSL/intro_twitter_sentiment_analysis) [Site](https://brockdsl.github.io/intro_twitter_sentiment_analysis/)
-- [Repository]() [Site]()
-- [Repository]() [Site]()
+- Azure Vision Tutorial [Repository](https://github.com/BrockDSL/Azure-Vision-Tutorial) [Site](https://brockdsl.github.io/Azure-Vision-Tutorial/)
+- Voyant Tutorial [Repository](https://github.com/BrockDSL/Voyant-Tutorial) [Site](https://brockdsl.github.io/Voyant-Tutorial/)
 - Template Repository for DSL Tutorials[Repository](https://github.com/BrockDSL/DSL_Tutorial_Template) [Site](https://brockdsl.github.io/DSL_Tutorial_Template/)
+- GitHub Tips [Repository](https://github.com/BrockDSL/GitHub-Tips-and-Tricks)
 
 ## Projects
 - Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
@@ -47,19 +46,16 @@
 - DSL's Recommended Online Tools [Repository](https://github.com/BrockDSL/Online-Tools) [Site](https://brockdsl.github.io/Online-Tools/)
 - DSL's Recommended Desktop Tools [Repository](https://github.com/BrockDSL/Desktop-Programs) [Site](https://brockdsl.github.io/Desktop-Programs/)
 - Cornucopia Source [Repository](https://github.com/BrockDSL/Cornucopia-Source) [Site](https://brockdsl.github.io/Cornucopia-Source/)
-- [Repository]() [Site]()
-- [Repository]() [Site]()
-- [Repository]() [Site]()
-
+- Azure Python Code [Repository](https://github.com/BrockDSL/AzurePythonCodes) [Site](https://brockdsl.github.io/AzurePythonCodes/)
+- Portainer Tools [Repository](https://github.com/BrockDSL/Portainer_Tools)
+- DSL Peers [Repository](https://github.com/BrockDSL/dsl_peers)
 
 ## Carpentries Workshops
-- Library Carpentry Workshop Spring 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
-- Data Carpentry 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
-- Software Carpentry Fall 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
-- [Repository]() [Site]()
+- Library Carpentry April 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
+- Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
+- Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
+- Software Carpentry February 2019[Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
 
-## Expired Pages
+## Expired Pages and Other
 - Power BI Online Tutorial [Repository](https://github.com/BrockDSL/PowerBI-Tutorial) [Site](https://brockdsl.github.io/PowerBI-Tutorial/)
-- [Repository]() [Site]()
-- [Repository]() [Site]()
-- [Repository]() [Site]()
+- Voyant Tool Info[Repository](https://github.com/BrockDSL/Voyant-Info)
