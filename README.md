@@ -2,6 +2,8 @@
 
 # Digital Scholarship Lab
 
+---
+
 ## Collaborations
 - Digital Scholarship Initiative 2020 [Repository](https://github.com/BrockDSL/DSI2020) [Site](https://brockdsl.github.io/DSI2020/)
 
@@ -58,6 +60,8 @@
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
 - Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
 - Software Carpentry February 2019[Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
+
+---
 
 ## Expired Pages and Other
 - Power BI Online Tutorial [Repository](https://github.com/BrockDSL/PowerBI-Tutorial) [Site](https://brockdsl.github.io/PowerBI-Tutorial/)
