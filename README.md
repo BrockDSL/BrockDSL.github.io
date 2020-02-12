@@ -2,6 +2,9 @@
 
 # Digital Scholarship Lab
 
+## Collaborations
+- Digital Scholarship Initiative 2020 [Repository](https://github.com/BrockDSL/DSI2020) [Site](https://brockdsl.github.io/DSI2020/)
+
 ## Workshops
 
 - Intro to PowerBi [Repository](https://github.com/BrockDSL/Intro_to_PowerBI_Workshop) [Site](https://brockdsl.github.io/Intro_to_PowerBI_Workshop/)
