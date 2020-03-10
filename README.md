@@ -37,6 +37,7 @@
 - Voyant Tutorial [Repository](https://github.com/BrockDSL/Voyant-Tutorial) [Site](https://brockdsl.github.io/Voyant-Tutorial/)
 - Template Repository for DSL Tutorials[Repository](https://github.com/BrockDSL/DSL_Tutorial_Template) [Site](https://brockdsl.github.io/DSL_Tutorial_Template/)
 - GitHub Tips [Repository](https://github.com/BrockDSL/GitHub-Tips-and-Tricks)
+- Tropy Tutorial [Repository](https://github.com/BrockDSL/Tropy-Tutorial) [Site](https://brockdsl.github.io/Tropy-Tutorial/)
 
 ## Projects
 - Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
