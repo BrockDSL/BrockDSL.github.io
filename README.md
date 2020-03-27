@@ -40,6 +40,7 @@
 - Tropy Tutorial [Repository](https://github.com/BrockDSL/Tropy-Tutorial) [Site](https://brockdsl.github.io/Tropy-Tutorial/)
 
 ## Projects
+**DSL Projects**
 - Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
 - Digital Scholarship Initiative 2020 [Repository](https://github.com/BrockDSL/DSI2020) [Site](https://brockdsl.github.io/DSI2020/)
 - The Diary of Winnie Beam [Repository](https://github.com/BrockDSL/winnie_beam_1900_dairy)
@@ -56,6 +57,11 @@
 - Portainer Tools [Repository](https://github.com/BrockDSL/Portainer_Tools)
 - DSL Peers [Repository](https://github.com/BrockDSL/dsl_peers)
 
+**Student Staff Projects 2019-2020**
+- Collection Builder Project [Project Repository](https://github.com/BrockDSL/Student_Collection_Builder_Project) [Result Repository](https://github.com/BrockDSL/Brock_DSL_CollectionBuilder) [Site](https://brockdsl.github.io/Brock_DSL_CollectionBuilder/)
+- Niagara Food Desert Project [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
+- ArcGIS Javascript API Project [Repository](https://github.com/BrockDSL/ArcGIS_Javascript_API_Project) [Site](https://brockdsl.github.io/ArcGIS_Javascript_API_Project/)
+- Hand Written Digit Recognition Project [Repository](https://github.com/BrockDSL/Hand_Written_Digit_Recognition_Project) [Site](https://brockdsl.github.io/Hand_Written_Digit_Recognition_Project/)
 ## Carpentries Workshops
 - Library Carpentry April 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
