@@ -23,6 +23,8 @@
 - Placeholder for Intro to Voyant Workshop [Repository](https://github.com/BrockDSL/Intro_to_Voyant_Workshop) [Site](https://brockdsl.github.io/Intro_to_Voyant_Workshop/)
 - ArcGIS Pro Flu Workshop [Repository](https://github.com/BrockDSL/ArcGIS-Pro-flu) [Site](https://brockdsl.github.io/ArcGIS-Pro-flu/)
 
+---
+
 ## Tutorials
 - Open Refine Tutorial [Repository](https://github.com/BrockDSL/Open-Refine-Tutorial) [Site](https://brockdsl.github.io/Open-Refine-Tutorial/)
 - Power BI Service (AKA Power BI Online) [Repository](https://github.com/BrockDSL/Power_BI_Service_Tutorial) [Site](https://brockdsl.github.io/Power_BI_Service_Tutorial/)
@@ -35,6 +37,8 @@
 - Template Repository for DSL Tutorials[Repository](https://github.com/BrockDSL/DSL_Tutorial_Template) [Site](https://brockdsl.github.io/DSL_Tutorial_Template/)
 - GitHub Tips [Repository](https://github.com/BrockDSL/GitHub-Tips-and-Tricks)
 - Tropy Tutorial [Repository](https://github.com/BrockDSL/Tropy-Tutorial) [Site](https://brockdsl.github.io/Tropy-Tutorial/)
+
+---
 
 ## Projects
 **DSL Projects**
@@ -54,18 +58,23 @@
 - Portainer Tools [Repository](https://github.com/BrockDSL/Portainer_Tools)
 - DSL Peers [Repository](https://github.com/BrockDSL/dsl_peers)
 
+---
+
 **Student Staff Projects 2019-2020**
 - Collection Builder Project [Project Repository](https://github.com/BrockDSL/Student_Collection_Builder_Project) [Result Repository](https://github.com/BrockDSL/Brock_DSL_CollectionBuilder) [Site](https://brockdsl.github.io/Brock_DSL_CollectionBuilder/)
 - Niagara Food Desert Project [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
 - ArcGIS Javascript API Project [Repository](https://github.com/BrockDSL/ArcGIS_Javascript_API_Project) [Site](https://brockdsl.github.io/ArcGIS_Javascript_API_Project/)
 - Hand Written Digit Recognition Project [Repository](https://github.com/BrockDSL/Hand_Written_Digit_Recognition_Project) [Site](https://brockdsl.github.io/Hand_Written_Digit_Recognition_Project/)
  
+---
 
 ## Carpentries Workshops
 - Library Carpentry April 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
 - Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
 - Software Carpentry February 2019[Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
+
+---
 
 ## Expired Pages and Other
 - Power BI Online Tutorial [Repository](https://github.com/BrockDSL/PowerBI-Tutorial) [Site](https://brockdsl.github.io/PowerBI-Tutorial/)
