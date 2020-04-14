@@ -40,7 +40,6 @@
 **DSL Projects**
 - Brock University Folders [Repository](https://github.com/BrockDSL/Brock-University-Folders) [Site](https://brockdsl.github.io/Brock-University-Folders/)
 - Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
-- Digital Scholarship Initiative 2020 [Repository](https://github.com/BrockDSL/DSI2020) [Site](https://brockdsl.github.io/DSI2020/)
 - The Diary of Winnie Beam [Repository](https://github.com/BrockDSL/winnie_beam_1900_dairy)
 - Research Tools on Demand [Repository](https://github.com/BrockDSL/Research-Tools-On-Demand) [Site](https://brockdsl.github.io/Research-Tools-On-Demand/)
 - TWARC Case Study [Repository](https://github.com/BrockDSL/TWARC_Case_Study) [Site](https://brockdsl.github.io/TWARC_Case_Study/)
@@ -65,8 +64,6 @@
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
 - Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
 - Software Carpentry February 2019[Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
-
----
 
 ## Expired Pages and Other
 - Power BI Online Tutorial [Repository](https://github.com/BrockDSL/PowerBI-Tutorial) [Site](https://brockdsl.github.io/PowerBI-Tutorial/)
