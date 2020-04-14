@@ -58,8 +58,6 @@
 - Portainer Tools [Repository](https://github.com/BrockDSL/Portainer_Tools)
 - DSL Peers [Repository](https://github.com/BrockDSL/dsl_peers)
 
----
-
 **Student Staff Projects 2019-2020**
 - Collection Builder Project [Project Repository](https://github.com/BrockDSL/Student_Collection_Builder_Project) [Result Repository](https://github.com/BrockDSL/Brock_DSL_CollectionBuilder) [Site](https://brockdsl.github.io/Brock_DSL_CollectionBuilder/)
 - Niagara Food Desert Project [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
