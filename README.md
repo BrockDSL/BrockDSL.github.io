@@ -59,6 +59,8 @@
 - Niagara Food Desert Project [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
 - ArcGIS Javascript API Project [Repository](https://github.com/BrockDSL/ArcGIS_Javascript_API_Project) [Site](https://brockdsl.github.io/ArcGIS_Javascript_API_Project/)
 - Hand Written Digit Recognition Project [Repository](https://github.com/BrockDSL/Hand_Written_Digit_Recognition_Project) [Site](https://brockdsl.github.io/Hand_Written_Digit_Recognition_Project/)
+ 
+
 ## Carpentries Workshops
 - Library Carpentry April 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
