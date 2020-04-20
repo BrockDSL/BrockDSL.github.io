@@ -26,6 +26,7 @@
 ---
 
 ## Tutorials
+- Change Detection Analysis Remote Sensing [Repository](https://github.com/BrockDSL/Change_Detection_Analysis_Remote_Sensing) [Site](https://brockdsl.github.io/Change_Detection_Analysis_Remote_Sensing/)
 - Open Refine Tutorial [Repository](https://github.com/BrockDSL/Open-Refine-Tutorial) [Site](https://brockdsl.github.io/Open-Refine-Tutorial/)
 - Power BI Service (AKA Power BI Online) [Repository](https://github.com/BrockDSL/Power_BI_Service_Tutorial) [Site](https://brockdsl.github.io/Power_BI_Service_Tutorial/)
 - Jupyter Notebooks Tutorial [Repository](https://github.com/BrockDSL/Jupyter_Notebooks_Tutorial) [Site](https://brockdsl.github.io/Jupyter_Notebooks_Tutorial/)
