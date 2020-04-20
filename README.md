@@ -26,7 +26,6 @@
 ---
 
 ## Tutorials
-- Change Detection Analysis Remote Sensing [Repository](https://github.com/BrockDSL/Change_Detection_Analysis_Remote_Sensing) [Site](https://brockdsl.github.io/Change_Detection_Analysis_Remote_Sensing/)
 - Open Refine Tutorial [Repository](https://github.com/BrockDSL/Open-Refine-Tutorial) [Site](https://brockdsl.github.io/Open-Refine-Tutorial/)
 - Power BI Service (AKA Power BI Online) [Repository](https://github.com/BrockDSL/Power_BI_Service_Tutorial) [Site](https://brockdsl.github.io/Power_BI_Service_Tutorial/)
 - Jupyter Notebooks Tutorial [Repository](https://github.com/BrockDSL/Jupyter_Notebooks_Tutorial) [Site](https://brockdsl.github.io/Jupyter_Notebooks_Tutorial/)
@@ -60,6 +59,7 @@
 - DSL Peers [Repository](https://github.com/BrockDSL/dsl_peers)
 
 **Student Staff Projects 2019-2020**
+- Change Detection Analysis Remote Sensing [Repository](https://github.com/BrockDSL/Change_Detection_Analysis_Remote_Sensing) [Site](https://brockdsl.github.io/Change_Detection_Analysis_Remote_Sensing/)
 - Collection Builder Project [Project Repository](https://github.com/BrockDSL/Student_Collection_Builder_Project) [Result Repository](https://github.com/BrockDSL/Brock_DSL_CollectionBuilder) [Site](https://brockdsl.github.io/Brock_DSL_CollectionBuilder/)
 - Niagara Food Desert Project [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
 - ArcGIS Javascript API Project [Repository](https://github.com/BrockDSL/ArcGIS_Javascript_API_Project) [Site](https://brockdsl.github.io/ArcGIS_Javascript_API_Project/)
