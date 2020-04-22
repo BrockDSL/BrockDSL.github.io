@@ -68,6 +68,7 @@
 ---
 
 ## Carpentries Workshops
+- Library Carpentry Redux via Discord June 2020 [Site](https://brockdsl.github.io/2020-06-04-Carpentry-Online/)
 - Library Carpentry August 2020 [Site](https://elibtronic.github.io/2018-08-13-BrockU/)
 - Library Carpentry April 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
