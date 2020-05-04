@@ -59,11 +59,12 @@
 - DSL Peers [Repository](https://github.com/BrockDSL/dsl_peers)
 
 **Student Staff Projects 2019-2020**
+- Gephi Tutorial [Repository](https://github.com/BrockDSL/Gephi-Tutorial) [Site](https://brockdsl.github.io/Gephi-Tutorial/)
 - Change Detection Analysis Remote Sensing [Repository](https://github.com/BrockDSL/Change_Detection_Analysis_Remote_Sensing) [Site](https://brockdsl.github.io/Change_Detection_Analysis_Remote_Sensing/)
-- Collection Builder Project [Project Repository](https://github.com/BrockDSL/Student_Collection_Builder_Project) [Result Repository](https://github.com/BrockDSL/Brock_DSL_CollectionBuilder) [Site](https://brockdsl.github.io/Brock_DSL_CollectionBuilder/)
-- Niagara Food Desert Project [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
-- ArcGIS Javascript API Project [Repository](https://github.com/BrockDSL/ArcGIS_Javascript_API_Project) [Site](https://brockdsl.github.io/ArcGIS_Javascript_API_Project/)
-- Hand Written Digit Recognition Project [Repository](https://github.com/BrockDSL/Hand_Written_Digit_Recognition_Project) [Site](https://brockdsl.github.io/Hand_Written_Digit_Recognition_Project/)
+- Collection Builder Project/Tutorial [Project Repository](https://github.com/BrockDSL/Student_Collection_Builder_Project) [Result Repository](https://github.com/BrockDSL/Brock_DSL_CollectionBuilder) [Site](https://brockdsl.github.io/Brock_DSL_CollectionBuilder/)
+- Niagara Food Desert Project/Tutorial [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
+- ArcGIS Javascript API Project/Tutorial [Repository](https://github.com/BrockDSL/ArcGIS_Javascript_API_Project) [Site](https://brockdsl.github.io/ArcGIS_Javascript_API_Project/)
+- Hand Written Digit Recognition Project/Tutorial [Repository](https://github.com/BrockDSL/Hand_Written_Digit_Recognition_Project) [Site](https://brockdsl.github.io/Hand_Written_Digit_Recognition_Project/)
  
 ---
 
