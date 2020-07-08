@@ -22,6 +22,7 @@
 - Digital Storytelling Workshop [Repository](https://github.com/BrockDSL/Digital_Storytelling_Workshop) [Site](https://brockdsl.github.io/Digital_Storytelling_Workshop/)
 - Placeholder for Intro to Voyant Workshop [Repository](https://github.com/BrockDSL/Intro_to_Voyant_Workshop) [Site](https://brockdsl.github.io/Intro_to_Voyant_Workshop/)
 - ArcGIS Pro Flu Workshop [Repository](https://github.com/BrockDSL/ArcGIS-Pro-flu) [Site](https://brockdsl.github.io/ArcGIS-Pro-flu/)
+- ArcGIS Online Workshop Series [Repository](https://github.com/BrockDSL/AGOL) [Site](https://brockdsl.github.io/AGOL/)
 
 ---
 
