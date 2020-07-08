@@ -66,16 +66,17 @@
 - Niagara Food Desert Project/Tutorial [Repository](https://github.com/BrockDSL/Niagara_Food_Desert_Project) [Site](https://brockdsl.github.io/Niagara_Food_Desert_Project/)
 - ArcGIS Javascript API Project/Tutorial [Repository](https://github.com/BrockDSL/ArcGIS_Javascript_API_Project) [Site](https://brockdsl.github.io/ArcGIS_Javascript_API_Project/)
 - Hand Written Digit Recognition Project/Tutorial [Repository](https://github.com/BrockDSL/Hand_Written_Digit_Recognition_Project) [Site](https://brockdsl.github.io/Hand_Written_Digit_Recognition_Project/)
- 
+
 ---
 
 ## Carpentries Workshops
-- Library Carpentry Redux via Discord June 2020 [Site](https://brockdsl.github.io/2020-06-04-Carpentry-Online/)
-- Library Carpentry August 2020 [Site](https://elibtronic.github.io/2018-08-13-BrockU/)
+- Library Carpentry August 2018 [Repository](https://github.com/elibtronic/2018-03-02-BrockU) [Site](https://elibtronic.github.io/2018-08-13-BrockU/)
+- Software Carpentry February 2019 [Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
+- Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
 - Library Carpentry April 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
-- Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
-- Software Carpentry February 2019[Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
+- Library Carpentry Redux via Discord June 2020 [Repository](https://github.com/BrockDSL/2020-06-04-Carpentry-Online) [Site](https://brockdsl.github.io/2020-06-04-Carpentry-Online/)
+- Library Carpentry August 2020 [Repository](https://github.com/BrockDSL/2020-08-19-Carpentry-Online) [Site](https://brockdsl.github.io/2020-08-19-Carpentry-Online/)
 
 ---
 
