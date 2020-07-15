@@ -11,6 +11,7 @@
 - Intro to Python [Repository](https://github.com/BrockDSL/Intro_to_Python_Workshop) [Site](https://brockdsl.github.io/Intro_to_Python_Workshop/)
 - Python 2.0 [Repository](https://github.com/BrockDSL/Python_2.0_Workshop) [Site](https://brockdsl.github.io/Python_2.0_Workshop/)
 - SciHub Workshop [Repository](https://github.com/BrockDSL/SciHub_Workshop) [Site](https://brockdsl.github.io/SciHub_Workshop/)
+- Machine Learning: An (easy) Introduction [Repository](https://github.com/BrockDSL/Machine_Learning_with_Python) [Site](https://brockdsl.github.io/Machine_Learning_with_Python/)
 - Story Maps Workshop [Repository](https://github.com/BrockDSL/StoryMaps) [Site](https://brockdsl.github.io/StoryMaps/)
 - Census Mapping Workshop [Repository](https://github.com/BrockDSL/Census_Mapping) [Site](https://brockdsl.github.io/Census_Mapping/)
 - Intro to R Workshop [Repository](https://github.com/BrockDSL/Intro_to_R_Workshop) [Site](https://brockdsl.github.io/Intro_to_R_Workshop/)
