@@ -47,6 +47,7 @@
 ## DSL Custom Tools
 - FTP-Prep - Prepare DSpace items for FromThePage [Repository](https://github.com/BrockDSL/FTP-Prep) [Site](https://brockdsl.github.io/FTP-Prep/)
 
+---
 
 ## DSL Projects
 - Brock University Folders [Repository](https://github.com/BrockDSL/Brock-University-Folders) [Site](https://brockdsl.github.io/Brock-University-Folders/)
@@ -64,6 +65,8 @@
 - Azure Python Code [Repository](https://github.com/BrockDSL/AzurePythonCodes) [Site](https://brockdsl.github.io/AzurePythonCodes/)
 - Portainer Tools [Repository](https://github.com/BrockDSL/Portainer_Tools)
 - DSL Peers [Repository](https://github.com/BrockDSL/dsl_peers)
+
+---
 
 ## Student Staff Projects 2019-2020
 - Gephi Tutorial [Repository](https://github.com/BrockDSL/Gephi-Tutorial) [Site](https://brockdsl.github.io/Gephi-Tutorial/)
