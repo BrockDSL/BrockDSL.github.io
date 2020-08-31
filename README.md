@@ -6,7 +6,7 @@
 
 ## Workshops
 
-- Intro to PowerBi [Repository](https://github.com/BrockDSL/Intro_to_PowerBI_Workshop) [Site](https://brockdsl.github.io/Intro_to_PowerBI_Workshop/)
+- Intro to PowerBI [Repository](https://github.com/BrockDSL/Intro_to_PowerBI_Workshop) [Site](https://brockdsl.github.io/Intro_to_PowerBI_Workshop/)
 - PowerBI 2.0 [Repository](https://github.com/BrockDSL/Power_BI_2.0_Workshop) [Site](https://brockdsl.github.io/Power_BI_2.0_Workshop/)
 - Intro to Python [Repository](https://github.com/BrockDSL/Intro_to_Python_Workshop) [Site](https://brockdsl.github.io/Intro_to_Python_Workshop/)
 - Python 2.0 [Repository](https://github.com/BrockDSL/Python_2.0_Workshop) [Site](https://brockdsl.github.io/Python_2.0_Workshop/)
@@ -24,6 +24,7 @@
 - Placeholder for Intro to Voyant Workshop [Repository](https://github.com/BrockDSL/Intro_to_Voyant_Workshop) [Site](https://brockdsl.github.io/Intro_to_Voyant_Workshop/)
 - ArcGIS Pro Flu Workshop [Repository](https://github.com/BrockDSL/ArcGIS-Pro-flu) [Site](https://brockdsl.github.io/ArcGIS-Pro-flu/)
 - ArcGIS Online Workshop Series [Repository](https://github.com/BrockDSL/AGOL) [Site](https://brockdsl.github.io/AGOL/)
+- Census Mapping [Repository](https://github.com/BrockDSL/Census_Mapping) [Site](https://brockdsl.github.io/Census_Mapping/)
 
 ---
 
@@ -41,6 +42,7 @@
 - GitHub Tips [Repository](https://github.com/BrockDSL/GitHub-Tips-and-Tricks)
 - Tropy Tutorial [Repository](https://github.com/BrockDSL/Tropy-Tutorial) [Site](https://brockdsl.github.io/Tropy-Tutorial/)
 - Collecting In Omeka S [Repository](https://github.com/BrockDSL/Collecting-In-Omeka-S) [Site](https://brockdsl.github.io/Collecting-In-Omeka-S/)
+- Taguette Tutorial [Repository](https://github.com/BrockDSL/Taguette_Tutorial) [Site]()
 
 ---
 
@@ -50,6 +52,7 @@
 ---
 
 ## DSL Projects
+- Brock Digital Project Showcase [Repository](https://github.com/BrockDSL/Brock-Digital-Project-Showcase) [Site](https://brockdsl.github.io/Brock-Digital-Project-Showcase/)
 - Brock University Folders [Repository](https://github.com/BrockDSL/Brock-University-Folders) [Site](https://brockdsl.github.io/Brock-University-Folders/)
 - Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
 - The Diary of Winnie Beam [Repository](https://github.com/BrockDSL/winnie_beam_1900_dairy)
