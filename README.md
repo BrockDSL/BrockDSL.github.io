@@ -42,7 +42,9 @@
 - GitHub Tips [Repository](https://github.com/BrockDSL/GitHub-Tips-and-Tricks)
 - Tropy Tutorial [Repository](https://github.com/BrockDSL/Tropy-Tutorial) [Site](https://brockdsl.github.io/Tropy-Tutorial/)
 - Collecting In Omeka S [Repository](https://github.com/BrockDSL/Collecting-In-Omeka-S) [Site](https://brockdsl.github.io/Collecting-In-Omeka-S/)
-- Taguette Tutorial [Repository](https://github.com/BrockDSL/Taguette_Tutorial) [Site]()
+- Taguette Tutorial [Repository](https://github.com/BrockDSL/Taguette_Tutorial) [Site](https://brockdsl.github.io/Taguette_Tutorial/)
+- Introduction to Tableau Online [Repository](https://github.com/BrockDSL/Tableau-Online-Tutorial) [Site](https://brockdsl.github.io/Tableau-Online-Tutorial/)
+
 
 ---
 
