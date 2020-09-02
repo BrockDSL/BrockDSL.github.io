@@ -58,7 +58,7 @@
 - The Diary of Winnie Beam [Repository](https://github.com/BrockDSL/winnie_beam_1900_dairy)
 - Research Tools on Demand [Repository](https://github.com/BrockDSL/Research-Tools-On-Demand) [Site](https://brockdsl.github.io/Research-Tools-On-Demand/)
 - TWARC Case Study [Repository](https://github.com/BrockDSL/TWARC_Case_Study) [Site](https://brockdsl.github.io/TWARC_Case_Study/)
-- Royal Tree Problem via ECJ & CCH [Repository](https://github.com/BrockDSL/royaltree_ecj_cluster)
+- Royal Tree Problem via ECJ & CCH [Repository](https://github.com/BrockDSL/royaltree_ecj_cluster) [Site](https://brockdsl.github.io/royaltree_ecj_cluster/)
 - Econ Data Cruncher [Repository](https://github.com/BrockDSL/econ-data-cruncher)
 - Example Uses of DSL HPC [Repository](https://github.com/BrockDSL/Example_Uses_of_DSL_HPC)
 - Cluster Computing for Humans [Repository](https://github.com/BrockDSL/DSL-Cluster) [Site](https://brockdsl.github.io/DSL-Cluster/)
