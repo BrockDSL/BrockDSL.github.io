@@ -84,14 +84,15 @@
 ---
 
 ## Carpentries Workshops
-- Library Carpentry August 2018 [Repository](https://github.com/elibtronic/2018-03-02-BrockU) [Site](https://elibtronic.github.io/2018-08-13-BrockU/)
-- Software Carpentry February 2019 [Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
-- Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
+
+- Software Carpentry February 2021 [Repository](https://github.com/BrockDSL/2021-02-16-SCOnline) [Site](https://brockdsl.github.io/2021-02-16-SCOnline/)
+- Library Carpentry August 2020 [Repository](https://github.com/BrockDSL/2020-08-19-Carpentry-Online) [Site](https://brockdsl.github.io/2020-08-19-Carpentry-Online/)
+- Library Carpentry Redux via Discord June 2020 [Repository](https://github.com/BrockDSL/2020-06-04-Carpentry-Online) [Site](https://brockdsl.github.io/2020-06-04-Carpentry-Online/)
 - Library Carpentry April 2020 [Repository](https://github.com/BrockDSL/2020-04-29-Ryerson) [Site](https://brockdsl.github.io/2020-04-29-Ryerson/)
 - Data Carpentry February 2020 [Repository](https://github.com/BrockDSL/2020-02-19-BrockU) [Site](https://brockdsl.github.io/2020-02-19-BrockU/)
-- Library Carpentry Redux via Discord June 2020 [Repository](https://github.com/BrockDSL/2020-06-04-Carpentry-Online) [Site](https://brockdsl.github.io/2020-06-04-Carpentry-Online/)
-- Library Carpentry August 2020 [Repository](https://github.com/BrockDSL/2020-08-19-Carpentry-Online) [Site](https://brockdsl.github.io/2020-08-19-Carpentry-Online/)
-- Software Carpentry February 2021 [Repository](https://github.com/BrockDSL/2021-02-16-SCOnline) [Site](https://brockdsl.github.io/2021-02-16-SCOnline/)
+- Software Carpentry October 2019 [Repository](https://github.com/BrockDSL/2019-10-15-BrockU) [Site](https://brockdsl.github.io/2019-10-15-BrockU/)
+- Software Carpentry February 2019 [Repository](https://github.com/BrockDSL/2019-02-21-BrockU) [Site](https://brockdsl.github.io/2019-02-21-BrockU/)
+- Library Carpentry August 2018 [Repository](https://github.com/elibtronic/2018-03-02-BrockU) [Site](https://elibtronic.github.io/2018-08-13-BrockU/)
 
 ---
 
