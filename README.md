@@ -29,6 +29,7 @@
 ---
 
 ## Tutorials
+- Omeka S Site Set-Up Guide [Repository](https://github.com/BrockDSL/Omeka_S_Site_Building_Guide_for_Brock_Users/blob/master/README.md)[Site](https://brockdsl.github.io/Omeka_S_Site_Building_Guide_for_Brock_Users/)
 - Introduction to ArcGIS Online (AGOL) [Repository](https://github.com/BrockDSL/AGOL) [Site](https://brockdsl.github.io/AGOL/)
 - Open Refine Tutorial [Repository](https://github.com/BrockDSL/Open-Refine-Tutorial) [Site](https://brockdsl.github.io/Open-Refine-Tutorial/)
 - Power BI Service (AKA Power BI Online) [Repository](https://github.com/BrockDSL/Power_BI_Service_Tutorial) [Site](https://brockdsl.github.io/Power_BI_Service_Tutorial/)
