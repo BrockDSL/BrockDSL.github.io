@@ -3,6 +3,9 @@
 # Digital Scholarship Lab
 
 ---
+## Resource Listings
+- Geodata Listing Showcase [Repository](https://github.com/BrockDSL/geodata-listing) [Site](https://brockdsl.github.io/geodata-listing/)
+- Brock Digital Project Showcase [Repository](https://github.com/BrockDSL/Digital_Project_Showcase) [Site](https://brockdsl.github.io/Digital_Project_Showcase/)
 
 ## Workshops
 
@@ -55,8 +58,6 @@
 ---
 
 ## DSL Projects
-- Geodata Listing Showcase [Repository](https://github.com/BrockDSL/geodata-listing) [Site](https://brockdsl.github.io/geodata-listing/)
-- Brock Digital Project Showcase [Repository](https://github.com/BrockDSL/Brock-Digital-Project-Showcase) [Site](https://brockdsl.github.io/Brock-Digital-Project-Showcase/)
 - Brock University Folders [Repository](https://github.com/BrockDSL/Brock-University-Folders) [Site](https://brockdsl.github.io/Brock-University-Folders/)
 - Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
 - The Diary of Winnie Beam [Repository](https://github.com/BrockDSL/winnie_beam_1900_dairy)
