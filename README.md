@@ -42,7 +42,7 @@
 - Twitter Sentiment Analysis steps [Repository](https://github.com/BrockDSL/intro_twitter_sentiment_analysis) [Site](https://brockdsl.github.io/intro_twitter_sentiment_analysis/)
 - Azure Vision Tutorial [Repository](https://github.com/BrockDSL/Azure-Vision-Tutorial) [Site](https://brockdsl.github.io/Azure-Vision-Tutorial/)
 - Voyant Tutorial [Repository](https://github.com/BrockDSL/Voyant-Tutorial) [Site](https://brockdsl.github.io/Voyant-Tutorial/)
-- Template Repository for DSL Tutorials[Repository](https://github.com/BrockDSL/DSL_Tutorial_Template) [Site](https://brockdsl.github.io/DSL_Tutorial_Template/)
+- Template Repository for DSL Tutorials[Repository](https://github.com/BrockDSL/DSL_Site_Template)
 - GitHub Tips [Repository](https://github.com/BrockDSL/GitHub-Tips-and-Tricks)
 - Tropy Tutorial [Repository](https://github.com/BrockDSL/Tropy-Tutorial) [Site](https://brockdsl.github.io/Tropy-Tutorial/)
 - Collecting In Omeka S [Repository](https://github.com/BrockDSL/Collecting-In-Omeka-S) [Site](https://brockdsl.github.io/Collecting-In-Omeka-S/)
