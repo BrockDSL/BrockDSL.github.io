@@ -58,7 +58,7 @@
 ---
 
 ## DSL Projects
-- Digital Scholarship Institute 2020 [Repository](https://github.com/BrockDSL/DSI2021) [Site](https://brockdsl.github.io/DSI2021/)
+- Digital Scholarship Institute 2020 [Repository](https://github.com/BrockDSL/DSI2021) [Site](https://brockdsl.github.io/DSI2021/) 
 - Brock University Folders [Repository](https://github.com/BrockDSL/Brock-University-Folders) [Site](https://brockdsl.github.io/Brock-University-Folders/)
 - Niagara Sports Database [Repository](https://github.com/BrockDSL/Niagara_Sport_Database) [Site](https://brockdsl.github.io/Niagara_Sport_Database/)
 - The Diary of Winnie Beam [Repository](https://github.com/BrockDSL/winnie_beam_1900_dairy)
