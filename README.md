@@ -28,7 +28,7 @@
 - ArcGIS Pro Flu Workshop [Repository](https://github.com/BrockDSL/ArcGIS-Pro-flu) [Site](https://brockdsl.github.io/ArcGIS-Pro-flu/)
 - ArcGIS Online Workshop Series [Repository](https://github.com/BrockDSL/AGOL) [Site](https://brockdsl.github.io/AGOL/)
 - Census Mapping [Repository](https://github.com/BrockDSL/Census_Mapping) [Site](https://brockdsl.github.io/Census_Mapping/)
-
+- Python for text analysis [Repository](https://github.com/BrockDSL/Text_Analysis_with_Python) [Site](https://brockdsl.github.io/Text_Analysis_with_Python/)
 ---
 
 ## Tutorials
