@@ -29,7 +29,6 @@
 - ArcGIS Online Workshop Series [Repository](https://github.com/BrockDSL/AGOL) [Site](https://brockdsl.github.io/AGOL/)
 - Census Mapping [Repository](https://github.com/BrockDSL/Census_Mapping) [Site](https://brockdsl.github.io/Census_Mapping/)
 - Python for text analysis [Repository](https://github.com/BrockDSL/Text_Analysis_with_Python) [Site](https://brockdsl.github.io/Text_Analysis_with_Python/)
----
 
 ## Tutorials
 - Omeka S Site Set-Up Guide [Repository](https://github.com/BrockDSL/Omeka_S_Site_Building_Guide_for_Brock_Users/blob/master/README.md) [Site](https://brockdsl.github.io/Omeka_S_Site_Building_Guide_for_Brock_Users/)
