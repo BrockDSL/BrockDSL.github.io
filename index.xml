@@ -44,6 +44,15 @@ The goal of this website is to provide an additional place to host instructional
     </item>
     
     <item>
+      <title>Citation Management with Zotero</title>
+      <link>https://BrockDSL.github.io/resources/zotero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BrockDSL.github.io/resources/zotero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Collaborating with Version Control on GitHub</title>
       <link>https://BrockDSL.github.io/resources/github-workshop2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,6 +112,15 @@ The goal of this website is to provide an additional place to host instructional
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://BrockDSL.github.io/workshops/github-workshop1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to LaTeX</title>
+      <link>https://BrockDSL.github.io/resources/latex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BrockDSL.github.io/resources/latex/</guid>
       <description></description>
     </item>
     
