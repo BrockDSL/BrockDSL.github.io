@@ -6,33 +6,33 @@
   <link rel="icon" href="/favicon.svg">
 
   <title>
-    Automating tasks with GitHub Actions - Digital Scholarship at Brock University
+    Text Analysis with Python - Digital Scholarship at Brock University
   </title>
-  <meta name="description" content="Learn about the Actions aspect of GitHub" /><meta name="generator" content="Hugo 0.97.3" /><link
+  <meta name="description" content="Learn the basics of Text Analysis using the Python programming language" /><meta name="generator" content="Hugo 0.97.3" /><link
     rel="stylesheet"
-    href="https://BrockDSL.github.io/css/styles.min.108ef8772fb4359b011e7674be4ba265fa6089b44cd2a0939bf8a003e9186a92.css"
-    integrity="sha256-EI74dy+0NZsBHnZ0vkuiZfpgibRM0qCTm/igA+kYapI="
+    href="https://BrockDSL.github.io/css/styles.min.f08b56768da313668325165f8f20e7547a14f566ef30510a279aaea4558bba57.css"
+    integrity="sha256-8ItWdo2jE2aDJRZfjyDnVHoU9WbvMFEKJ5qupFWLulc="
   />
   
   
 
-  <meta property="og:title" content="Automating tasks with GitHub Actions" />
-<meta property="og:description" content="Learn about the Actions aspect of GitHub" />
+  <meta property="og:title" content="Text Analysis with Python" />
+<meta property="og:description" content="Learn the basics of Text Analysis using the Python programming language" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://BrockDSL.github.io/resources/github-workshop4/" /><meta property="article:section" content="resources" />
+<meta property="og:url" content="https://BrockDSL.github.io/workshops/python-text-analysis/" /><meta property="article:section" content="workshops" />
 
 
 
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Automating tasks with GitHub Actions"/>
-<meta name="twitter:description" content="Learn about the Actions aspect of GitHub"/>
+<meta name="twitter:title" content="Text Analysis with Python"/>
+<meta name="twitter:description" content="Learn the basics of Text Analysis using the Python programming language"/>
 
-  <meta itemprop="name" content="Automating tasks with GitHub Actions">
-<meta itemprop="description" content="Learn about the Actions aspect of GitHub">
+  <meta itemprop="name" content="Text Analysis with Python">
+<meta itemprop="description" content="Learn the basics of Text Analysis using the Python programming language">
 
 <meta itemprop="wordCount" content="0">
-<meta itemprop="keywords" content="" />
+<meta itemprop="keywords" content="Python," />
 </head>
 <body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative">
   <a href="https://BrockDSL.github.io/" class="capitalize font-extrabold text-2xl">
@@ -50,9 +50,7 @@
   <ul class="mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-end md:items-center gap-4 lg:gap-6 bg-white dark:bg-gray-800">
 
     
-    <li><a href="/resources">Resources</a></li>
-    
-    <li><a href="/tutorials">Tutorials</a></li>
+    <li><a href="/workshops">Workshops</a></li>
     
     <li><a href="/projects">Projects</a></li>
     
@@ -103,7 +101,7 @@
 
   
   <div class="relative max-w-5xl mx-auto px-4">
-    <img src="https://github.com/BrockDSL/BrockDSL.github.io/blob/master/Images/Github_Part4.png?raw=true" class="rounded-lg shadow-sm w-full object-contain" />
+    <img src="https://github.com/BrockDSL/BrockDSL.github.io/blob/master/Images/Text-Analysis-Python.jpg?raw=true" class="rounded-lg shadow-sm w-full object-contain" />
     <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
       
   
@@ -117,10 +115,10 @@
 
   <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
 
-    <h1 class="text-2xl font-bold mb-2">Automating tasks with GitHub Actions</h1>
+    <h1 class="text-2xl font-bold mb-2">Text Analysis with Python</h1>
 
     
-  </article><div class="bg-red-400 dark:bg-gray-900">
+  </article><div class="bg-gray-300 dark:bg-gray-900">
   <div class="container px-6 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
     <div>
       <div class="text-2xl font-bold mb-2">Follow us</div>
@@ -189,6 +187,34 @@
       
       
       
+      
+      <li>
+        <a
+          href="https://https://www.instagram.com/brock_dsl/"
+          target="_blank"
+          rel="noopener"
+          aria-label="Instagram"
+          class="p-2 inline-block rounded-full border border-transparent text-gray-500 hover:text-gray-800 hover:border-gray-800 cursor-pointer transition-colors dark:text-gray-600 dark:hover:border-gray-300 dark:hover:text-gray-300"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="icon icon-tabler icon-tabler-brand-instagram"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <path d="M7.8,2H16.2C19.4,2 22,4.6 22,7.8V16.2A5.8,5.8 0 0,1 16.2,22H7.8C4.6,22 2,19.4 2,16.2V7.8A5.8,5.8 0 0,1 7.8,2M7.6,4A3.6,3.6 0 0,0 4,7.6V16.4C4,18.39 5.61,20 7.6,20H16.4A3.6,3.6 0 0,0 20,16.4V7.6C20,5.61 18.39,4 16.4,4H7.6M17.25,5.5A1.25,1.25 0 0,1 18.5,6.75A1.25,1.25 0 0,1 17.25,8A1.25,1.25 0 0,1 16,6.75A1.25,1.25 0 0,1 17.25,5.5M12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9Z" />
+            <circle cx="12" cy="12" r="9" />
+            <path d="M10 9l5 3l-5 3z" />
+          </svg>
+        </a>
+      </li>
       
     </ul>
   </div>

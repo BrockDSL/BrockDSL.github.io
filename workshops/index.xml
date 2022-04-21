@@ -1,30 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digital Scholarship at Brock University</title>
-    <link>https://BrockDSL.github.io/</link>
-    <description>Recent content on Digital Scholarship at Brock University</description>
+    <title>Resources on Digital Scholarship at Brock University</title>
+    <link>https://BrockDSL.github.io/workshops/</link>
+    <description>Recent content in Resources on Digital Scholarship at Brock University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://BrockDSL.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://BrockDSL.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BrockDSL.github.io/about/</guid>
-      <description>Digital Scholarship? Digital scholarship is by its nature collaborative, multi-disciplinary and draws upon a broad range of expertise from across librarianship, research data management, data visualization, data processing, digital preservation, and digital pedagogy. The Digital Scholarship Lab (DSL) is the hub to explore, discover, create, and play with data and visual tools, methods, and objects, and to contribute that knowledge back to the community.
-The goal of this website is to provide an additional place to host instructional material, code, and data for all of our workshops, projects, aand tutorials.</description>
-    </item>
-    
-    <item>
-      <title>antiwork dataset</title>
-      <link>https://BrockDSL.github.io/projects/project_antiwork_dataset/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BrockDSL.github.io/projects/project_antiwork_dataset/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://BrockDSL.github.io/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ArcGIS Storymaps</title>
       <link>https://BrockDSL.github.io/workshops/arcgis-storymaps/</link>
@@ -40,15 +21,6 @@ The goal of this website is to provide an additional place to host instructional
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://BrockDSL.github.io/workshops/github-workshop4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collaborating with Version Control on GitHub</title>
-      <link>https://BrockDSL.github.io/resources/github-workshop2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BrockDSL.github.io/resources/github-workshop2/</guid>
       <description></description>
     </item>
     
@@ -71,29 +43,11 @@ The goal of this website is to provide an additional place to host instructional
     </item>
     
     <item>
-      <title>DSI 2022</title>
-      <link>https://BrockDSL.github.io/events/dsi2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BrockDSL.github.io/events/dsi2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GitHub for Researchers</title>
       <link>https://BrockDSL.github.io/workshops/github-for-researchers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://BrockDSL.github.io/workshops/github-for-researchers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to GitHub Repositories and GitHub Desktop</title>
-      <link>https://BrockDSL.github.io/resources/github-workshop1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BrockDSL.github.io/resources/github-workshop1/</guid>
       <description></description>
     </item>
     
@@ -130,15 +84,6 @@ The goal of this website is to provide an additional place to host instructional
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://BrockDSL.github.io/workshops/python-machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making a Free Webpage with GitHub Pages</title>
-      <link>https://BrockDSL.github.io/resources/github-workshop3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BrockDSL.github.io/resources/github-workshop3/</guid>
       <description></description>
     </item>
     
