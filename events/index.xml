@@ -5,33 +5,28 @@
     <link>https://BrockDSL.github.io/events/</link>
     <description>Recent content in Events on Digital Scholarship at Brock University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://BrockDSL.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://BrockDSL.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Carpentry</title>
       <link>https://BrockDSL.github.io/events/datacarpentry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/events/datacarpentry/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DSI 2021</title>
       <link>https://BrockDSL.github.io/events/dsi2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/events/dsi2021/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DSI 2022</title>
       <link>https://BrockDSL.github.io/events/dsi2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/events/dsi2022/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

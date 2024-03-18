@@ -5,331 +5,266 @@
     <link>https://BrockDSL.github.io/</link>
     <description>Recent content on Digital Scholarship at Brock University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://BrockDSL.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://BrockDSL.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://BrockDSL.github.io/google87f73c2a99194413/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/google87f73c2a99194413/</guid>
       <description>google-site-verification: google87f73c2a99194413.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://BrockDSL.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/about/</guid>
-      <description>Digital Scholarship? Digital scholarship is by its nature collaborative, multi-disciplinary and draws upon a broad range of expertise from across librarianship, research data management, data visualization, data processing, digital preservation, and digital pedagogy. The Digital Scholarship Lab (DSL) is the hub to explore, discover, create, and play with data and visual tools, methods, and objects, and to contribute that knowledge back to the community.
-The goal of this website is to provide an additional place to host instructional material, code, and data for all of our workshops, projects, aand tutorials.</description>
+      <description>Digital Scholarship? Digital scholarship is by its nature collaborative, multi-disciplinary and draws upon a broad range of expertise from across librarianship, research data management, data visualization, data processing, digital preservation, and digital pedagogy. The Digital Scholarship Lab (DSL) is the hub to explore, discover, create, and play with data and visual tools, methods, and objects, and to contribute that knowledge back to the community.&#xA;The goal of this website is to provide an additional place to host instructional material, code, and data for all of our workshops, projects, aand tutorials.</description>
     </item>
-    
     <item>
       <title>Advanced Text Analysis with Python</title>
       <link>https://BrockDSL.github.io/workshops/advanced-text-analysis-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/advanced-text-analysis-python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>antiwork dataset</title>
       <link>https://BrockDSL.github.io/projects/project_antiwork_dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/projects/project_antiwork_dataset/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ArcGIS Storymaps</title>
       <link>https://BrockDSL.github.io/workshops/arcgis-storymaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/arcgis-storymaps/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Automating tasks with GitHub Actions</title>
       <link>https://BrockDSL.github.io/workshops/github-workshop4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/github-workshop4/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Automating tasks with GitHub Actions</title>
+      <link>https://BrockDSL.github.io/workshops/intro-ai-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BrockDSL.github.io/workshops/intro-ai-tools/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Citation Management with Zotero</title>
       <link>https://BrockDSL.github.io/guides/zotero-asynchronous-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/guides/zotero-asynchronous-module/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Citation Management with Zotero</title>
       <link>https://BrockDSL.github.io/workshops/zotero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/zotero/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Collaborating with Version Control on GitHub</title>
       <link>https://BrockDSL.github.io/resources/github-workshop2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/resources/github-workshop2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Collaborating with Version Control on GitHub</title>
       <link>https://BrockDSL.github.io/workshops/github-workshop2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/github-workshop2/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Crisis Communication in Niagara Region during the COVID-19 Pandemic</title>
       <link>https://BrockDSL.github.io/projects/project_archives_unleashed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/projects/project_archives_unleashed/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Carpentry</title>
       <link>https://BrockDSL.github.io/events/datacarpentry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/events/datacarpentry/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Science with Python</title>
       <link>https://BrockDSL.github.io/workshops/python-data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/python-data-science/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Data Visualization with R</title>
       <link>https://BrockDSL.github.io/workshops/data-visualization-in-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/data-visualization-in-r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DSI 2021</title>
       <link>https://BrockDSL.github.io/events/dsi2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/events/dsi2021/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DSI 2022</title>
       <link>https://BrockDSL.github.io/events/dsi2022/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/events/dsi2022/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Geodata Listing</title>
       <link>https://BrockDSL.github.io/projects/project_geolisting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/projects/project_geolisting/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GitHub for Researchers</title>
       <link>https://BrockDSL.github.io/workshops/github-for-researchers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/github-for-researchers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to ArcGIS Online</title>
       <link>https://BrockDSL.github.io/workshops/intro-agol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/intro-agol/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Data Visualization</title>
       <link>https://BrockDSL.github.io/workshops/introduction-to-data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/introduction-to-data-visualization/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to GitHub Repositories and GitHub Desktop</title>
       <link>https://BrockDSL.github.io/resources/github-workshop1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/resources/github-workshop1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to GitHub Repositories and GitHub Desktop</title>
       <link>https://BrockDSL.github.io/workshops/github-workshop1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/github-workshop1/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to LaTeX</title>
       <link>https://BrockDSL.github.io/workshops/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/latex/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Open Refine</title>
       <link>https://BrockDSL.github.io/workshops/introduction-to-open-refine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/introduction-to-open-refine/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Power BI</title>
       <link>https://BrockDSL.github.io/workshops/introduction-to-power-bi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/introduction-to-power-bi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Python</title>
       <link>https://BrockDSL.github.io/workshops/python-intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/python-intro/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to R</title>
       <link>https://BrockDSL.github.io/workshops/introduction-to-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/introduction-to-r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to SQL and Databases</title>
       <link>https://BrockDSL.github.io/workshops/sql-databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/sql-databases/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introduction to Tableau</title>
       <link>https://BrockDSL.github.io/workshops/introduction-to-tableau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/introduction-to-tableau/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Machine Learning with Python</title>
       <link>https://BrockDSL.github.io/workshops/python-machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/python-machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Making a Free Webpage with GitHub Pages</title>
       <link>https://BrockDSL.github.io/resources/github-workshop3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/resources/github-workshop3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Making a Free Webpage with GitHub Pages</title>
       <link>https://BrockDSL.github.io/workshops/github-workshop3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/github-workshop3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Making Functions with R</title>
       <link>https://BrockDSL.github.io/workshops/making-functions-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/making-functions-r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Power BI Workflow and Online Service</title>
       <link>https://BrockDSL.github.io/workshops/power-workflow_and-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/power-workflow_and-service/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Text Analysis with Python</title>
       <link>https://BrockDSL.github.io/workshops/python-text-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/python-text-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Text Analysis with R</title>
       <link>https://BrockDSL.github.io/workshops/text-analysis-r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://BrockDSL.github.io/workshops/text-analysis-r/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
