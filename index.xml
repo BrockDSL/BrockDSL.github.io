@@ -50,13 +50,6 @@
       <description></description>
     </item>
     <item>
-      <title>Automating tasks with GitHub Actions</title>
-      <link>https://BrockDSL.github.io/workshops/intro-ai-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://BrockDSL.github.io/workshops/intro-ai-tools/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Citation Management with Zotero</title>
       <link>https://BrockDSL.github.io/guides/zotero-asynchronous-module/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,6 +132,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://BrockDSL.github.io/workshops/github-for-researchers/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Introduction to AI Tools</title>
+      <link>https://BrockDSL.github.io/workshops/intro-ai-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://BrockDSL.github.io/workshops/intro-ai-tools/</guid>
+      <description> </description>
     </item>
     <item>
       <title>Introduction to ArcGIS Online</title>
