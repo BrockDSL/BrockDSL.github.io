@@ -5,28 +5,33 @@
     <link>https://BrockDSL.github.io/projects/</link>
     <description>Recent content in Projects on Digital Scholarship at Brock University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://BrockDSL.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://BrockDSL.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>antiwork dataset</title>
       <link>https://BrockDSL.github.io/projects/project_antiwork_dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://BrockDSL.github.io/projects/project_antiwork_dataset/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Crisis Communication in Niagara Region during the COVID-19 Pandemic</title>
       <link>https://BrockDSL.github.io/projects/project_archives_unleashed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://BrockDSL.github.io/projects/project_archives_unleashed/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Geodata Listing</title>
       <link>https://BrockDSL.github.io/projects/project_geolisting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://BrockDSL.github.io/projects/project_geolisting/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

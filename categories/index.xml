@@ -5,7 +5,6 @@
     <link>https://BrockDSL.github.io/categories/</link>
     <description>Recent content in Categories on Digital Scholarship at Brock University</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://BrockDSL.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://BrockDSL.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
